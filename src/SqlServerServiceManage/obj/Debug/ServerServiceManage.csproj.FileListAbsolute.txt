@@ -1,0 +1,12 @@
+E:\ICodeWorkProject\【快盘下载】获取当前服务器的状态\获取当前服务器的状态\SqlServerServiceManage\bin\Debug\ServerServiceManage.exe.config
+E:\ICodeWorkProject\【快盘下载】获取当前服务器的状态\获取当前服务器的状态\SqlServerServiceManage\bin\Debug\ServerServiceManage.exe.manifest
+E:\ICodeWorkProject\【快盘下载】获取当前服务器的状态\获取当前服务器的状态\SqlServerServiceManage\bin\Debug\ServerServiceManage.application
+E:\ICodeWorkProject\【快盘下载】获取当前服务器的状态\获取当前服务器的状态\SqlServerServiceManage\bin\Debug\ServerServiceManage.exe
+E:\ICodeWorkProject\【快盘下载】获取当前服务器的状态\获取当前服务器的状态\SqlServerServiceManage\bin\Debug\ServerServiceManage.pdb
+E:\ICodeWorkProject\【快盘下载】获取当前服务器的状态\获取当前服务器的状态\SqlServerServiceManage\obj\Debug\SqlServerServiceManage.Service.resources
+E:\ICodeWorkProject\【快盘下载】获取当前服务器的状态\获取当前服务器的状态\SqlServerServiceManage\obj\Debug\ServerServiceManage.Properties.Resources.resources
+E:\ICodeWorkProject\【快盘下载】获取当前服务器的状态\获取当前服务器的状态\SqlServerServiceManage\obj\Debug\ServerServiceManage.csproj.GenerateResource.Cache
+E:\ICodeWorkProject\【快盘下载】获取当前服务器的状态\获取当前服务器的状态\SqlServerServiceManage\obj\Debug\ServerServiceManage.exe.manifest
+E:\ICodeWorkProject\【快盘下载】获取当前服务器的状态\获取当前服务器的状态\SqlServerServiceManage\obj\Debug\ServerServiceManage.application
+E:\ICodeWorkProject\【快盘下载】获取当前服务器的状态\获取当前服务器的状态\SqlServerServiceManage\obj\Debug\ServerServiceManage.exe
+E:\ICodeWorkProject\【快盘下载】获取当前服务器的状态\获取当前服务器的状态\SqlServerServiceManage\obj\Debug\ServerServiceManage.pdb
