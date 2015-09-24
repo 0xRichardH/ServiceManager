@@ -5,4 +5,4 @@
 我的联系方式：
 		QQ：1192717523
 		邮箱：haoxilu@163.com
-		博客：http://www.cnblogs.com/haoxilu/
+		博客：http://haoxilu.net/
